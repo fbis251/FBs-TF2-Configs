@@ -16,7 +16,7 @@ All classes share the following configurations, class specific configurations ar
 
 **Heavy/Pyro Configuration**
 
-- The damage text batches, which means that you will see a sum total of the damage you've done over the past few seconds. This is different from all the other classes which show you damage per hit. If 
+- The damage text batches, which means that you will see a sum total of the damage you've done over the past few seconds. This is different from all the other classes which show you damage per hit
 
 **Engineer Configuration**
 
@@ -38,3 +38,10 @@ This requires a huge learning curve, but stick with it and your spy skills will 
 - Numbers 1 and 4 now switch to Heavy and Soldier disguises, respectively
 - Number 2 switches to revolver
 - Number 3 switches to knife
+
+Installation Instructions
+-------------------------
+1. Download the config's ZIP file by pressing "Download ZIP" or [clicking here](https://github.com/fbis251/tf2-configs/archive/master.zip)
+2. Open your TF2 custom configuration directory (by default it will Steam\steamapps\common\Team Fortress 2\tf\custom)
+3. Unzip the directory there (The unzipped folder should be under Steam\steamapps\common\Team Fortress 2\tf\custom\tf2-configs-master
+4. Load up TF2 and try out my configs. If you open the console directly after launching the game you should see "Default config loaded"
