@@ -45,3 +45,31 @@ Installation Instructions
 2. Open your TF2 custom configuration directory (by default it will Steam\steamapps\common\Team Fortress 2\tf\custom)
 3. Unzip the directory there (The unzipped folder should be under Steam\steamapps\common\Team Fortress 2\tf\custom\FBs-TF2-Configs-master
 4. Load up TF2 and try out my configs. If you open the console directly after launching the game you should see "Default config loaded"
+
+The final directory structure should look like this:
+
+    Team Fortress 2
+    └── tf
+        └── custom
+            └── FBs-TF2-Configs-master
+                ├── cfg
+                │   ├── autoexec.cfg
+                │   ├── comanglia_fps_high.cfg
+                │   ├── comanglia_fps_low.cfg
+                │   ├── comanglia_fps_medium.cfg
+                │   ├── demoman.cfg
+                │   ├── engineer.cfg
+                │   ├── fb.cfg
+                │   ├── heavyweapons.cfg
+                │   ├── medic.cfg
+                │   ├── pyro.cfg
+                │   ├── scout.cfg
+                │   ├── sniper.cfg
+                │   ├── soldier.cfg
+                │   └── spy.cfg
+                ├── README.md
+                ├── scripts
+                │   └── surfaceproperties.txt
+                └── sound
+                    └── ui
+                        └── hitsound.wav
