@@ -43,5 +43,5 @@ Installation Instructions
 -------------------------
 1. Download the config's ZIP file by pressing "Download ZIP" or [clicking here](https://github.com/fbis251/tf2-configs/archive/master.zip)
 2. Open your TF2 custom configuration directory (by default it will Steam\steamapps\common\Team Fortress 2\tf\custom)
-3. Unzip the directory there (The unzipped folder should be under Steam\steamapps\common\Team Fortress 2\tf\custom\tf2-configs-master
+3. Unzip the directory there (The unzipped folder should be under Steam\steamapps\common\Team Fortress 2\tf\custom\FBs-TF2-Configs-master
 4. Load up TF2 and try out my configs. If you open the console directly after launching the game you should see "Default config loaded"
