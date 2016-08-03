@@ -11,7 +11,7 @@ All classes share the following configurations, class specific configurations ar
 - Primary and secondary weapon viewmodels hide on mouse1 click
 - F1-F4 keys are used for changing loadouts
 - Null movement is enabled, making it harder for those snipers to hit you
-- Using shift to use voice in-game lowers your mic volume to 5% and restores it to 33% when you let go of shift. TF2's game volume is too loud, so 33% is a good level.
+- Using shift to use voice in-game lowers your microphone volume to 5% and restores it to 33% when you let go of shift. TF2's game volume is too loud, so 33% is a good level.
 - Hit sounds (dingaling) will change pitch based on damage done
 
 **Heavy/Pyro Configuration**
@@ -30,18 +30,17 @@ This requires a huge learning curve, but stick with it and your spy skills will 
 - The keypad is now used for changing disguises. Example: Keypad 1 changes the disguise to scout, keypad 4 to demoman, etc.
 - Keypad 0 will change disguise teams. If your disguises are BLU, pressing 0 will change the disguises to RED
 - Pressing F will pull out your sapper and start spamming it
-- Q switches between knife and revolver only
+- Q switches between knife and revolver only. Q will also make it appear like your disguise is switching weapons to help make it more believable
 - R will toggle "zoom" by switching the FOV. This makes it easier to snipe with the ambassador (Thanks BLADE!)
 - L will now drop the intelligence, cloak you and use lastdisguise
-- Cloaking will always use lastdisguise
 - Mousewheel will cycle between four disguises: pyro, engineer, demoman, sniper
-- Numbers 1 and 4 now switch to Heavy and Soldier disguises, respectively
+- Numbers 1 and 4 now switch to Scout and Spy disguises, respectively
 - Number 2 switches to revolver
 - Number 3 switches to knife
 
 Installation Instructions
 -------------------------
-1. Download the config's ZIP file by pressing "Download ZIP" or [clicking here](https://github.com/fbis251/tf2-configs/archive/master.zip)
+1. Download the configs ZIP file by pressing "Download ZIP" or [clicking here](https://github.com/fbis251/tf2-configs/archive/master.zip)
 2. Open your TF2 custom configuration directory (by default it will Steam\steamapps\common\Team Fortress 2\tf\custom)
 3. Unzip the directory there (The unzipped folder should be under Steam\steamapps\common\Team Fortress 2\tf\custom\FBs-TF2-Configs-master
 4. Load up TF2 and try out my configs. If you open the console directly after launching the game you should see "Default config loaded"
@@ -53,23 +52,6 @@ The final directory structure should look like this:
         └── custom
             └── FBs-TF2-Configs-master
                 ├── cfg
-                │   ├── autoexec.cfg
-                │   ├── comanglia_fps_high.cfg
-                │   ├── comanglia_fps_low.cfg
-                │   ├── comanglia_fps_medium.cfg
-                │   ├── demoman.cfg
-                │   ├── engineer.cfg
-                │   ├── fb.cfg
-                │   ├── heavyweapons.cfg
-                │   ├── medic.cfg
-                │   ├── pyro.cfg
-                │   ├── scout.cfg
-                │   ├── sniper.cfg
-                │   ├── soldier.cfg
-                │   └── spy.cfg
                 ├── README.md
                 ├── scripts
-                │   └── surfaceproperties.txt
                 └── sound
-                    └── ui
-                        └── hitsound.wav
